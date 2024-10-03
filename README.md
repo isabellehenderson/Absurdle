@@ -1,9 +1,5 @@
 # Absurdle
 
-Here's a README and a brief description for the Absurdle project:
-
-## Absurdle
-
 Absurdle is a variant of the popular word-guessing game Wordle, implemented in Java. Unlike traditional Wordle, Absurdle dynamically adjusts its target word based on the player's guesses, making it more challenging and unpredictable.
 
 ### Description
