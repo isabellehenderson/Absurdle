@@ -39,7 +39,6 @@ The `Absurdle` class contains the following key methods:
 
 ### Requirements
 
-- Java Development Kit (JDK)
 - A text file containing dictionary words
 
 ### How to Run in Terminal
