@@ -55,6 +55,3 @@ The `Absurdle` class contains the following key methods:
 3. Follow the on-screen prompts to play the game
 
 Enjoy playing Absurdle!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/32303081/63dbc45c-cb8b-4663-a9e8-5b9fef711e32/Absurdle.java
